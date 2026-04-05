@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Amber Meigoumi S. Apale | 24103140 | beram -->
+    <color name="purple_dark">#1a0f2e</color>
+    <color name="purple_deep">#2a1540</color>
+    <color name="purple_mid">#5b3a8a</color>
+    <color name="purple_bright">#8b2fc9</color>
+    <color name="purple_accent">#c89fff</color>
+    <color name="purple_text">#e8d5ff</color>
+    <color name="purple_muted">#9b6fc4</color>
+    <color name="error_red">#f09595</color>
+    <color name="white">#FFFFFF</color>
+</resources>
