@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Study Buddy</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_title">Study Buddy</string>
+    <string name="splash_subtitle">Your personal study companion</string>
+    <string name="btn_get_started">Get Started</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Welcome Back!</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="btn_subjects">My Subjects</string>
+    <string name="btn_profile">My Profile</string>
+    <string name="btn_logout">Logout</string>
+
+    <!-- Subjects Screen -->
+    <string name="subjects_title">My Subjects</string>
+    <string name="btn_back">Back</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">My Profile</string>
+    <string name="profile_name">Name: Amber Meigoumi Apale</string>
+    <string name="profile_course">Course: CIS 2203N</string>
+</resources>
