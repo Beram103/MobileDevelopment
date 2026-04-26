@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    strings.xml
+    Amber Apale (Ber) | Student ID: 24103140
+-->
+<resources>
+    <string name="app_name">Ber\'s Compound Calculator</string>
+    <string name="author">Amber Apale | 24103140</string>
+    <string name="formula_label">A = P(1 + r/n)^(nt)</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_clear">Clear</string>
+    <string name="hint_principal">e.g. 10000</string>
+    <string name="hint_rate">e.g. 5 (for 5%)</string>
+    <string name="hint_time">e.g. 10</string>
+</resources>
